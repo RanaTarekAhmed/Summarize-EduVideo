@@ -1,0 +1,90 @@
+when we move from one place to another
+the measure of total length we cover is
+called the
+distance so you have to travel to this
+town and the best route is straight up
+North but because of Road Works along
+the way we have to take a detour and the
+distance covered would be something like
+this now when the road works are
+completed the distance needed to be
+covered would be something like this
+distance is measured in meters and
+denoted as lowercase M the distance
+between these two towns is about 20,000
+M but because of the detour you had to
+cover a distance of 50,000
+M okay so nobody likes big numbers
+unless it's your
+salary so we should also know that a
+kilometer is 1,000 m in our example we
+can say that instead of 20 km you
+traveled 50 km is distance a scalar or a
+vector quantity think about it if you
+say someone travels 20 km from this
+point we can't really tell where they
+landed up maybe here maybe there or
+maybe they just went around in circles
+as it does not specify a direction it is
+a scalar
+quantity that brings us to displacement
+so what is
+displacement distance with direction is
+displacement distance with Direction
+what do we do we mean by that you made
+two separate trips to this town was the
+distance covered in both the cases the
+same have a good look it wasn't in each
+of the two cases the distance was
+different the time you took for The
+Detour was greater than the time you
+could go straight across but if you call
+someone to tell them where you are in
+both the cases your location is this
+town which is 20 km north of your home
+the displacement in both the cases is
+the same
+you traveled 20 km North North shows the
+direction and because direction is
+specified displacement becomes a vector
+quantity now let's look at this example
+where a mother asks her son to quietly
+stay where he is while she takes a quick
+nap so now the child runs back and forth
+many times and returns to the original
+spot before the mom wakes up the mom
+wakes up and sees the child in the same
+spot and as she hasn't observed what
+happened in the last few minutes she
+assumes the child has not moved the
+child being the future expert in physics
+has in fact disobeyed her instruction
+and covered lots of distance but at the
+same time he can argue that he did
+follow his mom's instruction lots of
+distance covered but zero
+displacement if the distance traveled is
+a straight line the displacement will be
+the same magnitude as the distance but
+with the direction provided as well in
+most cases in our day-to-day lives the
+distance covered is greater than the
+displacement scene running errands and
+traveling back and forth between places
+caus the amount of distance to build up
+though you may not end up very far from
+home if you've really understood the
+difference between distance and
+displacement you should be able to
+answer the next question when a
+passenger Travels by taxi is he charged
+based on the distance or displacement
+taxis charge passengers based on
+distance if you go to the neighboring
+town and return in the same taxi the
+taxi meter shows you the charge for the
+entire round trip if you now try to
+explain to the taxi driver that you have
+had no resultant change in your location
+and hence you must pay nothing it will
+not impress him much
